@@ -1,0 +1,6 @@
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestShaKyList\TestShaKyList\bin\Debug\TestShaKyList.dll
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestShaKyList\TestShaKyList\bin\Debug\TestShaKyList.pdb
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestShaKyList\TestShaKyList\obj\Debug\TestShaKyList.csproj.CoreCompileInputs.cache
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestShaKyList\TestShaKyList\obj\Debug\TestShaKyList.dll
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestShaKyList\TestShaKyList\obj\Debug\TestShaKyList.pdb
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestShaKyList\TestShaKyList\obj\Debug\TestShaKyList.csprojAssemblyReference.cache

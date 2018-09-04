@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShaKyList", "TestShaKyList\TestShaKyList.csproj", "{D1C46328-B9EF-4AC7-8547-0CDE3088CB1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C46328-B9EF-4AC7-8547-0CDE3088CB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C46328-B9EF-4AC7-8547-0CDE3088CB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C46328-B9EF-4AC7-8547-0CDE3088CB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C46328-B9EF-4AC7-8547-0CDE3088CB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5683D8-6833-418A-A53F-DCF535F0495B}
+	EndGlobalSection
+EndGlobal
